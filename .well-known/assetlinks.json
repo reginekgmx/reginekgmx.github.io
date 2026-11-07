@@ -1,10 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "pl.reginek.kpn",
-    "sha256_cert_fingerprints": [
-      "WKLEJ_SHA256_Z_PLAY_CONSOLE"
-    ]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "pl.reginek.kpn",
+        "sha256_cert_fingerprints": ["96:6D:9B:34:56:18:62:ED:F4:AD:43:34:CA:88:10:E1:75:23:4E:1E:80:3F:4E:32:6D:A6:80:11:6F:37:74:F6"]
+      }
+    }]
